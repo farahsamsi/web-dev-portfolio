@@ -225,3 +225,23 @@ main section{
 .resume-download-btn{
     margin-top: 50px;
 }
+
+
+/* footer styles */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
+
+footer input[type='text'], footer input[type='email'], footer textarea {
+    height: 64px;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 20;
+    margin-bottom: 24px;
+}

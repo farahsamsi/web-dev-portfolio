@@ -244,4 +244,5 @@ footer input[type='text'], footer input[type='email'], footer textarea {
     padding: 10px 20px;
     font-size: 20;
     margin-bottom: 24px;
+    display: block;
 }
